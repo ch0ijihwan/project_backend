@@ -1,5 +1,5 @@
 ---
-name: 공통 템플릿
+name: issue_templet
 about: 공통으로 사용할 템플릿 입니다.
 title: ''
 labels: ''
